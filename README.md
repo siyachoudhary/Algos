@@ -8,4 +8,4 @@ Each file is a different algorithm and contains the description for the problem 
 The algos contained include:
 
 - Two Sum
-
+- Palindrome Number
