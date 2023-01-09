@@ -1,4 +1,9 @@
 // PALINDROME NUMBER ALGORITHM
+// Given an integer x, return true if x is a palindrome, and false otherwise.
+
+// examples: 
+// x = 1221. Return true because 1221 = 1221 forwards and backwards
+// x = 152. Return false because 152 != 251
 
 class Solution {
     public boolean isPalindrome(int x) {
