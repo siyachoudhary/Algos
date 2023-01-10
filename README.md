@@ -6,7 +6,7 @@ Each file is a different algorithm and contains the description for the problem 
 
 # Algos
 
-All Algorithm solutions are written in JAVA.
+All Algorithm solutions are written in Java.
 The algos contained include:
 
 - Two Sum
