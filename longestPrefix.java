@@ -2,6 +2,12 @@
 // Write a function to find the longest common prefix string amongst an array of strings.
 // If there is no common prefix, return an empty string "".
 
+// for example: 
+// INPUT: ["flower", "flow", "flight"]
+// OUTPUT: "fl" -> the first two letters of all words is "fl" before the letters change
+
+// All words only contain lowercase English letters
+
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         String pref = "";
