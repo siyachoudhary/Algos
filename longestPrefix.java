@@ -6,7 +6,9 @@
 // INPUT: ["flower", "flow", "flight"]
 // OUTPUT: "fl" -> the first two letters of all words is "fl" before the letters change
 
-// All words only contain lowercase English letters
+// All words (strs[i]) only contain lowercase English letters
+// 1 < strs.length <= 200
+// 0 <= strs[i].length <= 200
 
 class Solution {
     public String longestCommonPrefix(String[] strs) {
