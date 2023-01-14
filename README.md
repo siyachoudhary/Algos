@@ -13,3 +13,4 @@ The algos contained include:
 - Palindrome Number
 - Roman to Integer
 - Longest Common Prefix
+- Remove Duplicates From Sorted Array
