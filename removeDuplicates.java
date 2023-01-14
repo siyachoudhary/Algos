@@ -1,3 +1,5 @@
+// REMOVE DUPLICATES FROM SORTED ARRAY
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         if(nums.length == 0)
